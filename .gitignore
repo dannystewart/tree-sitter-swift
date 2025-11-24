@@ -1,6 +1,4 @@
 node_modules
-/src/*
-!/src/scanner.c
 !/src/*.json
 *.swp
 /build
@@ -14,5 +12,4 @@ bindings/c/*.h
 bindings/c/tree-sitter-*.pc
 .vscode/
 /.build
-
 .DS_Store
