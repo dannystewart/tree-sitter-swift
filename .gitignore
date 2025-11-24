@@ -14,3 +14,5 @@ bindings/c/*.h
 bindings/c/tree-sitter-*.pc
 .vscode/
 /.build
+
+.DS_Store
